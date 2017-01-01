@@ -1,0 +1,76 @@
+(0008, 0008) Image Type                          CS: ['ORIGINAL', 'PRIMARY', 'LOCALIZER']
+(0008, 0016) SOP Class UID                       UI: CT Image Storage
+(0008, 0018) SOP Instance UID                    UI: 1.2.392.200036.9116.2.2.1.1762454391.20160602133841260358
+(0008, 0020) Study Date                          DA: '20160602'
+(0008, 0022) Acquisition Date                    DA: '20160602'
+(0008, 0023) Content Date                        DA: '20160602'
+(0008, 0030) Study Time                          TM: '133608.000'
+(0008, 0032) Acquisition Time                    TM: '133826.150'
+(0008, 0033) Content Time                        TM: '133841.260'
+(0008, 0050) Accession Number                    SH: 'AH-01-09-435'
+(0008, 0060) Modality                            CS: 'CT'
+(0008, 0070) Manufacturer                        LO: 'TOSHIBA'
+(0008, 0080) Institution Name                    LO: 'Alem Health'
+(0008, 0081) Institution Address                 ST: 'Block B, Core F Unit 304 Downtown, Dubai, UAE'
+(0008, 0090) Referring Physician's Name          PN: ''
+(0008, 1010) Station Name                        SH: 'Demo Hospital'
+(0008, 1030) Study Description                   LO: 'None'
+(0008, 103e) Series Description                  LO: 'None'
+(0008, 1070) Operators' Name                     PN: 'None'
+(0008, 1090) Manufacturer's Model Name           LO: 'Auklet'
+(0010, 0000) Group Length                        UL: 68
+(0010, 0010) Patient's Name                      PN: 'Test^from^KAH'
+(0010, 0020) Patient ID                          LO: 'P-208'
+(0010, 0030) Patient's Birth Date                DA: ''
+(0010, 0040) Patient's Sex                       CS: 'F'
+(0010, 1010) Patient's Age                       AS: 'None'
+(0010, 2154) Patient's Telephone Numbers         SH: 'None'
+(0010, 21b0) Additional Patient History          LT: 'Head Trauma'
+(0010, 4000) Patient Comments                    LT: '\\\\\\\\'
+(0018, 0000) Group Length                        UL: 178
+(0018, 0010) Contrast/Bolus Agent                LO: 'NONE'
+(0018, 0015) Body Part Examined                  CS: 'Brain'
+(0018, 0022) Scan Options                        CS: 'SCANOSCOPE'
+(0018, 0050) Slice Thickness                     DS: '2'
+(0018, 0060) KVP                                 DS: '120'
+(0018, 1000) Device Serial Number                LO: ['', '']
+(0018, 1012) Date of Secondary Capture           DA: 'None'
+(0018, 1014) Time of Secondary Capture           TM: 'None'
+(0018, 1020) Software Version(s)                 LO: 'V2.23ER001'
+(0018, 1100) Reconstruction Diameter             DS: '350.00'
+(0018, 1120) Gantry/Detector Tilt                DS: '+0.0'
+(0018, 1130) Table Height                        DS: '-393'
+(0018, 1150) Exposure Time                       IS: '4300'
+(0018, 1151) X-Ray Tube Current                  IS: '100'
+(0018, 1152) Exposure                            IS: '430'
+(0018, 1210) Convolution Kernel                  SH: 'FL02'
+(0018, 5100) Patient Position                    CS: 'HFS'
+(0020, 0000) Group Length                        UL: 382
+(0020, 000d) Study Instance UID                  UI: 1.2.392.200036.9116.2.2.1.1762454391.20160602133608000358
+(0020, 000e) Series Instance UID                 UI: 1.2.392.200036.9116.2.2.1.1762454391.20160602133608000358.1
+(0020, 0010) Study ID                            SH: '358'
+(0020, 0011) Series Number                       IS: '1'
+(0020, 0012) Acquisition Number                  IS: ''
+(0020, 0013) Instance Number                     IS: '10001'
+(0020, 0020) Patient Orientation                 CS: ['L', 'F']
+(0020, 0032) Image Position (Patient)            DS: ['-256.000000', '0.000080', '-397.500000']
+(0020, 0037) Image Orientation (Patient)         DS: ['1.000000', '0.000000', '0.000000', '0.000000', '0.000000', '-1.000000']
+(0020, 0052) Frame of Reference UID              UI: 1.2.392.200036.9116.2.2.1.1762454391.20160602133608000358.1
+(0020, 1040) Position Reference Indicator        LO: ''
+(0020, 1041) Slice Location                      DS: '-653.5'
+(0028, 0000) Group Length                        UL: 154
+(0028, 0002) Samples per Pixel                   US: 1
+(0028, 0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028, 0010) Rows                                US: 512
+(0028, 0011) Columns                             US: 512
+(0028, 0030) Pixel Spacing                       DS: ['1.000', '1.000']
+(0028, 0100) Bits Allocated                      US: 16
+(0028, 0101) Bits Stored                         US: 16
+(0028, 0102) High Bit                            US: 15
+(0028, 0103) Pixel Representation                US: 1
+(0028, 1050) Window Center                       DS: '125'
+(0028, 1051) Window Width                        DS: '150'
+(0028, 1052) Rescale Intercept                   DS: '0'
+(0028, 1053) Rescale Slope                       DS: '1'
+(7fe0, 0000) Group Length                        UL: 524296
+(7fe0, 0010) Pixel Data                          OB or OW: Array of 524288 bytes
